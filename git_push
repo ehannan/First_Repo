@@ -1,0 +1,6 @@
+git init
+git add -A
+git commit -m "Hello_World"
+git remote add origin https://github.com/ehannan/First_Repo.git
+git push origin master
+<3
